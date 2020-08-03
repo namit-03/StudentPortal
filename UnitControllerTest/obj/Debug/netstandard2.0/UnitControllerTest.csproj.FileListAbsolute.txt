@@ -1,0 +1,5 @@
+C:\Users\Namit Pundir\source\repos\StudentPortal1\UnitControllerTest\bin\Debug\netstandard2.0\UnitControllerTest.deps.json
+C:\Users\Namit Pundir\source\repos\StudentPortal1\UnitControllerTest\bin\Debug\netstandard2.0\UnitControllerTest.dll
+C:\Users\Namit Pundir\source\repos\StudentPortal1\UnitControllerTest\obj\Debug\netstandard2.0\UnitControllerTest.csprojAssemblyReference.cache
+C:\Users\Namit Pundir\source\repos\StudentPortal1\UnitControllerTest\obj\Debug\netstandard2.0\UnitControllerTest.AssemblyInfoInputs.cache
+C:\Users\Namit Pundir\source\repos\StudentPortal1\UnitControllerTest\obj\Debug\netstandard2.0\UnitControllerTest.AssemblyInfo.cs
